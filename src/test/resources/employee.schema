@@ -1,0 +1,6 @@
+message m {
+  optional int64 empid;
+  optional binary name;
+  optional int32 salary;
+  optional boolean active;
+}
